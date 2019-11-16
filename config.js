@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://ismailsunni.id',
   pathPrefix: '/',
-  title: 'Blog by Ismail Sunni',
-  subtitle: 'Lorem Ipsum dolot',
+  title: 'Ismail Sunni\'s Blog',
+  subtitle: 'Blog of Ismail Sunni',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'U',
+  postsPerPage: 5,
+  googleAnalyticsId: 'UA-152696654-1',
   useKatex: false,
   menu: [
     {
@@ -30,13 +30,13 @@ module.exports = {
     bio: 'A [geospatial] software engineer',
     contacts: {
       email: 'imajimatika@gmail.com',
-      facebook: '#',
+      facebook: 'ismailsunni',
       telegram: 'ismailsunni',
       twitter: 'ismailsunni',
       github: 'ismailsunni',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'ismailsunni',
       instagram: 'ismail.sunni',
       line: '',
       gitlab: '',
