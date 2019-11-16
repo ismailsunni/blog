@@ -9,7 +9,15 @@ tags:
   - "Blogging"
   - "Learning to write"
 description: "Saying hello to the world, again"
-socialImage: "/media/image-2.jpg"
+socialImage: "/photo.jpg"
 ---
 
-This is my another attempt to do a blogging about my professional experience. I always want to share my professional experience either technical or non-technical. Hopefully, it will last forever.
+Hello World!
+
+Again.
+
+This is my another attempt to do a blogging about my professional experience. I always want to share my professional experience either technical or non-technical. Hopefully, it will be useful (at least for me) and last forever.
+
+This blog is based on [Gatsby](https://www.gatsbyjs.org/), using [Lumen starter](https://github.com/alxshelepenok/gatsby-starter-lumen), and deployed using [Netlify](https://www.netlify.com/). The source is hosted at this [GitHub repository](https://github.com/ismailsunni/blog).
+
+Enjoy!
