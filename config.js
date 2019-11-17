@@ -6,7 +6,7 @@ module.exports = {
   title: 'Ismail Sunni\'s Blog',
   subtitle: 'Blog of Ismail Sunni',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'ismail-sunni-blog',
   postsPerPage: 5,
   googleAnalyticsId: 'UA-152696654-1',
   useKatex: false,
