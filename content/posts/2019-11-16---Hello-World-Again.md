@@ -21,3 +21,5 @@ This is my another attempt to do a blogging about my professional experience. I 
 This blog is based on [Gatsby](https://www.gatsbyjs.org/), using [Lumen starter](https://github.com/alxshelepenok/gatsby-starter-lumen), and deployed using [Netlify](https://www.netlify.com/). The source is hosted at this [GitHub repository](https://github.com/ismailsunni/blog).
 
 Enjoy!
+
+PS: I also still write in [my personal blog](https://ismailsunni.wordpress.com/) in Bahasa Indonesia.
