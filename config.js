@@ -20,6 +20,10 @@ module.exports = {
       path: '/pages/about'
     },
     {
+      label: 'Projects',
+      path: '/pages/projects'
+    },
+    {
       label: 'Contact me',
       path: '/pages/contacts'
     }
@@ -31,7 +35,7 @@ module.exports = {
     contacts: {
       email: 'imajimatika@gmail.com',
       facebook: 'ismailsunni',
-      telegram: 'ismailsunni',
+      telegram: '',
       twitter: 'ismailsunni',
       github: 'ismailsunni',
       rss: '',
