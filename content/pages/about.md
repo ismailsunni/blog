@@ -10,11 +10,13 @@ I am a software engineer who work mostly with Python or C++ who is interested at
 
 Beside GIS, I also interested in 3D, Visualization, Artificial Inteligence, and Machine Learning. But the most important is, I can make other people's life easier.
 
+Feel free to check my [CV](https://github.com/ismailsunni/resume/blob/master/ismail_sunni_resume.pdf)
+
 ## Accademically
 
 I got my bachelor of science degree from [Institut Teknologi Bandung](http://itb.ac.id/), Indonesia for Informatic Engineering. My final project is about [Sentiment Analysis and Topic Extraction for Public Figure on Twitter](https://scholar.google.com/citations?user=OInjje8AAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DOInjje8AAAAJ%26citation_for_view%3DOInjje8AAAAJ%3Au5HHmVD_uO8C%26tzom%3D-60). Currently, I am currently studying for [Master of Science in Geospatial Technologies](http://mastergeotech.info/) at [University of Muenster](https://www.uni-muenster.de/Geoinformatics/) and [Universitat Jaume I](https://www.uji.es/) with a scholarship from the Erasmus Mundus programme.
 
-## Open Source and Community
+## Open Source and the Community
 
 I love open source and its community. I helped initiating [Python-ID](http://python.or.id/) community in my home town, Yogyakarta and organized several meet ups. Currently, I am helping creating [QGIS ID or QGIS Indonesia User Group](https://qgis-id.github.io/) community. I am trying more and more to contribute to the beautiful open source community.
 
